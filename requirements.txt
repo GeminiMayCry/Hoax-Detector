@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-streamlit==1.32.0
-torch==2.2.0
-transformers==4.40.0
-numpy
-regex
+streamlit
+transformers
+torch==2.0.0
 huggingface-hub
-=======
-streamlit==1.32.0
-torch==2.2.0
-transformers==4.40.0
-numpy
 regex
-huggingface-hub
->>>>>>> 24ef92dbf6318c2e9f393c9fbe086a1c2072d819
+numpy
+Pillow
