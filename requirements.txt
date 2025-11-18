@@ -1,6 +1,6 @@
-streamlit==1.32.0
-torch==2.0.1
-transformers==4.36.2
+streamlit
+transformers
 numpy
 regex
 huggingface-hub
+torch==2.0.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
