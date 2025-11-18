@@ -1,7 +1,6 @@
 streamlit
+torch
 transformers
-torch==2.0.0
-huggingface-hub
-regex
 numpy
-Pillow
+regex
+huggingface-hub
